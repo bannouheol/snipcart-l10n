@@ -33,5 +33,10 @@
         "email": "Veuillez spécifier une adresse email valide",
         "customer_exists": "Cet email est déjà utilisé.",
         "invalid_credentials": "Email ou mot de passe invalide"
-    }
-}
+    },
+        "order_validation": {
+          "domain_crawling": {
+              "title":"Votre commande n'a pas pu être validée.",
+              "description":"Vous n'avez pas été prélevé. Veuillez contacter le vendeur pour plus de détails."
+          }
+            }
