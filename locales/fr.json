@@ -42,7 +42,7 @@
         "promocode_applied": "Promotion appliquée"
     },
     "address_form": {
-        "name": "Nom complet",
+        "name": "Nom complet (nom et prénom)",
         "email": "Courriel",
         "address1": "Adresse civique",
         "address2": "Appartement",
