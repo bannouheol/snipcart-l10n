@@ -2,12 +2,12 @@
     "default": {
         "loading": "O kargañ...",
         "error": "Ur fazi zo c'hoarvezet.",
-        "success": "Graet eo!"
+        "success": "Graet eo !"
     },
     "actions": {
         "edit": "Kemmañ",
         "cancel": "Nullañ",
-        "continue_shopping": "Kenderc'hel gant ar prenadennoù",
+        "continue_shopping": "Kendelc'her gant ar prenadennoù",
         "back_to_checkout": "Distreiñ d'ar paeañ",
         "checkout": "Paeañ",
         "apply": "Lakaat da dalvezout",
@@ -96,7 +96,7 @@
         "firstName": "Anv-bihan",
         "lastName": "Anv",
         "address1": "Chomlec'h kas",
-        "address2": "Ranndi",
+        "address2": "Adchomlec'h",
         "city": "Kêr",
         "country": "Bro",
         "phone": "Niverenn-bellgomz",
@@ -108,7 +108,7 @@
     "billing": {
         "title": "Fakturenniñ",
         "address": "Chomlec'h fakturenniñ",
-        "continue_to_shipping": "Kenderc'hel d'an degasadenn",
+        "continue_to_shipping": "Kendelc'her d'an degasadenn",
         "use_different_shipping_address": "Implijout ur chomlec'h degas disheñvel"
     },
     "customer": {
@@ -137,7 +137,7 @@
         "loading": "O kargañ...",
         "no_orders": "Urzhiad ebet kavet.",
         "no_subscriptions": "Koumanantiñ ebet kavet.",
-        "view_invoice": "Gwelet ar faktur",
+        "view_invoice": "Gwelet ar fakturenn",
         "sign_out": "Digevreañ",
         "show_more_orders": "Diskwel un urzhiad ouzhpenn |||| Diskwel %{smart_count} urzhiad ouzhpenn",
         "show_more_subscriptions": "Diskouez %{smart_count} c'houmanantiñ ouzhpenn |||| Diskouez %{smart_count} c'houmanantiñ ouzhpenn",
@@ -194,7 +194,7 @@
     },
     "guest_checkout": {
         "or": "Pe",
-        "continue_as_a_guest": "Kenderc'hel evel gwestel"
+        "continue_as_a_guest": "Kendelc'her evel gwestel"
     },
     "shipping": {
         "title": "Degasadenn",
@@ -224,8 +224,8 @@
         },
         "still_pending_notice": "Ho paeamant a zo c'hoazh o vezañ kelennet.",
         "title": "Paeamant",
-        "continue_to_payment": "Kenderc'hel d'ar paeamant",
-        "credit_card": "Kartenn-gred",
+        "continue_to_payment": "Kendelc'her d'ar paeamant",
+        "credit_card": "Kartenn-vank",
         "place_order": "Lakaat an urzhiad",
         "preparing_payment_session": "Aozañ ar paeamant...",
         "processing_payment": "O paeañ...",
@@ -234,7 +234,7 @@
         "method_icon": "%{method} arlun",
         "no_payment": "N'eus paeamant ebet evit an urzhiad-mañ.",
         "methods": {
-            "card": "Kartenn-gred",
+            "card": "Kartenn-vank",
             "paypal": "PayPal",
             "paypal_express_checkout": "PayPal",
             "apple_pay": "Apple Pay",
@@ -258,7 +258,7 @@
     },
     "cart_summary": {
         "taxes": "Tailhoù",
-        "taxes_included_in_price": "Produioù 'zo gant an tailh er priz.",
+        "taxes_included_in_price": "Produioù zo gant an tailh er priz.",
         "total": "Hollad",
         "subtotal": "Ishollad",
         "shipping": "Degasadenn",
@@ -278,22 +278,22 @@
         "invalid_expiry_year_past": "Kartenn aet d’he zermen",
         "email": "Bizskrivit ur chomlec’h postel e talvoud",
         "quantity_revised": "Kemmet eo bet an niver abalamour d'ar stok.",
-        "quantity_out_of_stock": "Ar produ-mañ n'emañ ket er stok ken. Tennit anezhañ eus ar panerad evit kenderc'hel.",
+        "quantity_out_of_stock": "Ar produ-mañ n'emañ ket er stok ken. Tennit anezhañ eus ar panerad evit kendelc'her.",
         "disabled_country": "N'eo ket posupl kas d'ar vro-mañ.",
         "error_payment_items_are_invalid": {
             "title": "Produioù zo en ho paner zo direizh",
             "description": "Adwelit hoc'h urzhiad pe klaskit en-dro diwezhatoc'h."
         },
         "card": {
-            "invalid_number": "Niverenn ar gartenn a zo direizh.",
-            "invalid_date": "Deiziad termen ar gartenn a zo direizh.",
-            "invalid_year": "Bloavezh termen ar gartenn a zo direizh.",
-            "invalid_month": "Miz termen ar gartenn a zo direizh.",
-            "invalid_cvv": "CVV ar gartenn a zo direizh.",
-            "invalid_expiration": "Deiziad termen ar gartenn a zo direizh.",
-            "expired": "Ar gartenn a zo tremenet he zermen.",
+            "invalid_number": "Niverenn ar gartenn zo direizh.",
+            "invalid_date": "Deiziad termen ar gartenn zo direizh.",
+            "invalid_year": "Bloavezh termen ar gartenn zo direizh.",
+            "invalid_month": "Miz termen ar gartenn zo direizh.",
+            "invalid_cvv": "CVV ar gartenn zo direizh.",
+            "invalid_expiration": "Deiziad termen ar gartenn zo direizh.",
+            "expired": "Ar gartenn zo tremenet he zermen.",
             "declined": "Nac'het eo bet ar gartenn. Kit e darempred gant ho pank.",
-            "invalid_address": "Chomlec'h ar gartenn a zo direizh.",
+            "invalid_address": "Chomlec'h ar gartenn zo direizh.",
             "insufficient_funds": "N'eus ket a arc'hant a-walc'h war ar gont.",
             "card_not_supported": "Ar gartenn n'eo ket skoret er rannvro-mañ.",
             "currency_not_supported": "Ar moneiz n'eo ket skoret evit ar mare."
@@ -302,7 +302,7 @@
             "declined": "Ur fazi zo c'hoarvezet en ur dreitañ ar gartenn. Klaskit en-dro diwezhatoc'h pe grit gant un doare paeañ all."
         },
         "discounts": {
-            "conflict": "Diskountoù 'zo ne c'hellont ket bezañ kevreet. Ober gant an diskount-mañ kentoc'h?"
+            "conflict": "Diskountoù zo ne c'hallont ket bezañ kevreet. Ober gant an diskount-mañ kentoc'h?"
         },
         "order_validation": {
             "domain_crawling": {
@@ -319,21 +319,21 @@
             },
             "custom_fields_validation": {
                 "title": "Titouroù ret a vank.",
-                "description": "Produioù 'zo er panerad a vank titouroù ret. Kemmit ar panerad evit kenderc'hel."
+                "description": "Produioù zo er banerad a vank titouroù ret. Kemmit ar banerad evit kendelc'her."
             },
             "shipping_validation": {
                 "title": "N'eo ket bet gwiriet an doare kas.",
-                "description": "Priz ar c'has diuzet a c'hell bezañ cheñchet pe n'emañ ket hegerz ken."
+                "description": "Priz ar c'has diuzet a c'hall bezañ cheñchet pe n'emañ ket hegerz ken."
             }
         },
-        "invalid_address": "Ar chomlec'h a zo direizh.",
+        "invalid_address": "Ar chomlec'h zo direizh.",
         "shipping": {
             "account_configuration": {
                 "title": "N'eus doare kas ebet hegerz evit ar mare",
                 "description": "Klaskit en-dro diwezhatoc'h pe kit e darempred ganeomp."
             },
             "rates_calculation": {
-                "title": "N'eo ket bet gallout jediñ priz ar c'has evit hoc'h urzhiad",
+                "title": "N'eo ket bet posupl jediñ priz ar c'has evit hoc'h urzhiad",
                 "description": "Klaskit en-dro diwezhatoc'h pe kit e darempred ganeomp."
             },
             "no_rates_found": {
@@ -360,9 +360,9 @@
             "E.ADDRESS.INSUFFICIENT": "Titouroù ar chomlec'h a zo diglok.",
             "E.ADDRESS.DUAL": "Ar chomlec'h a endalc'h titouroù enebour.",
             "E.STREET.MAGNET": "N'eo ket bet gwiriet anv ar straed.",
-            "E.CITY_STATE.INVALID": "Ar gêr pe ar rannvro a zo direizh.",
-            "E.STATE.INVALID": "Ar rannvro a zo direizh.",
-            "E.ADDRESS.DELIVERY.INVALID": "Ar chomlec'h kas a zo direizh.",
+            "E.CITY_STATE.INVALID": "Ar gêr pe ar rannvro zo direizh.",
+            "E.STATE.INVALID": "Ar rannvro zo direizh.",
+            "E.ADDRESS.DELIVERY.INVALID": "Ar chomlec'h kas zo direizh.",
             "E.TIMED_OUT": "Amzer gwiriañ ar chomlec'h zo echu. Klaskit en-dro.",
             "E.TIME_ZONE.UNAVAILABLE": "Titouroù ar gwerzhid-eur n'int ket hegerz.",
             "E.PO_BOX.INTERNATIONAL": "N'eo ket posupl kas etrevroadel da ur voest-lizher.",
@@ -379,17 +379,17 @@
         },
         "authentication_challenge": {
             "failed": {
-                "title": "N'eo ket bet gallout ober ar paeamant",
-                "description": "N'eo ket bet gallout gwiriañ ho titouroù paeamant. Klaskit en-dro mar plij."
+                "title": "N'eo ket bet posupl ober ar paeamant",
+                "description": "N'eo ket bet posupl gwiriañ ho titouroù paeamant. Klaskit en-dro mar plij."
             }
         },
         "cart_items": {
             "cart_can_only_contain_one_subscription": {
-                "title": "Ur c'houmanantiñ hepken a c'hell bezañ er panerad.",
+                "title": "Ur c'houmanantiñ hepken a c'hall bezañ er banerad.",
                 "description": "Tennit ar c'houmanantiñ a zo a-raok ouzhpennañ unan nevez."
             },
             "cart_can_only_contain_items_or_subscriptions": {
-                "title": "Ar panerad a c'hell endalc'hout produioù pe goumanantioù.",
+                "title": "Ar banerad a c'hall endalc'hout produioù pe goumanantioù.",
                 "description": "Tennit ar produioù a zo a-raok ouzhpennañ ur c'houmanantiñ, pe an enep."
             }
         },
